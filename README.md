@@ -3,4 +3,12 @@
 #### Group B: XING YAN
 ***
 ## Week1
----> [Week1 File link]([Week1.md](Week1.md))
+---> [Week1 File link](https://github.com/gabrielyanxing/Metropolia_Database_XingYan/blob/master/Week1.md)
+## Week2
+---> [Week2 File link](https://github.com/gabrielyanxing/Metropolia_Database_XingYan/blob/master/Week2.md)
+## Week3
+---> [Week3 File link](https://github.com/gabrielyanxing/Metropolia_Database_XingYan/blob/master/Week3.md)
+## Week4
+---> [Week4 File link](https://github.com/gabrielyanxing/Metropolia_Database_XingYan/blob/master/Week4.md)
+## Week5
+---> [Week5 File link](https://github.com/gabrielyanxing/Metropolia_Database_XingYan/blob/master/Week5.md)
