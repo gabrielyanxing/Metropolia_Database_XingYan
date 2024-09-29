@@ -1,4 +1,5 @@
 # Week 3 Exercises
+# Exercises 2 + 3
 ## Exercises 2
 ### 1
 ![截屏2024-09-29 22.02.37.png](week3/exercises2/%E6%88%AA%E5%B1%8F2024-09-29%2022.02.37.png)
