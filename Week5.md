@@ -54,10 +54,19 @@ SELECT name FROM airport WHERE ABS(latitude_deg) = (SELECT MAX(ABS(latitude_deg)
 ***
 ## Exercises 7
 ### 1
+```mysql
+UPDATE game SET location = (SELECT ident FROM airport WHERE name = 'Nottingham Airport'), co2_consumed = co2_consumed + 500 WHERE screen_name = 'Vesa';
+```
 ![截屏2024-09-30 01.16.18.png](week5/exercises%207/%E6%88%AA%E5%B1%8F2024-09-30%2001.16.18.png)
 ### 2
 ![截屏2024-09-30 01.16.23.png](week5/exercises%207/%E6%88%AA%E5%B1%8F2024-09-30%2001.16.23.png)
 ### 3
+```mysql
+DELETE FROM goal_reached;
+```
 ![截屏2024-09-30 01.16.27.png](week5/exercises%207/%E6%88%AA%E5%B1%8F2024-09-30%2001.16.27.png)
 ### 4
+```mysql
+DELETE FROM game;
+```
 ![截屏2024-09-30 01.16.31.png](week5/exercises%207/%E6%88%AA%E5%B1%8F2024-09-30%2001.16.31.png)
